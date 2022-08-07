@@ -57,5 +57,32 @@
     <ClCompile Include="13_if_else.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14_if_vs_ifelse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15_if_comparision_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16_if_logicalAnd.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18_break.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19_continue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20_nestedFor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22_switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
