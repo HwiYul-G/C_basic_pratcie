@@ -84,5 +84,17 @@
     <ClCompile Include="22_switch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23_IEEE754.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="24_casting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25_casting_exercise1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

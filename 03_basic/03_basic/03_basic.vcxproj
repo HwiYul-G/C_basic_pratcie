@@ -142,6 +142,10 @@
     <ClCompile Include="20_nestedFor.c" />
     <ClCompile Include="21_while.c" />
     <ClCompile Include="22_switch.c" />
+    <ClCompile Include="23_IEEE754.c" />
+    <ClCompile Include="24_casting.c" />
+    <ClCompile Include="25_array.c" />
+    <ClCompile Include="25_casting_exercise1.c" />
     <ClCompile Include="2_variable.c" />
     <ClCompile Include="3_printf.c" />
     <ClCompile Include="4_naming.c" />
