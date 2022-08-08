@@ -96,5 +96,23 @@
     <ClCompile Include="25_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="26_primeNumber.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="27_array2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="28_constant.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="29_Uninitialized_variables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="30_2d_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31_pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
