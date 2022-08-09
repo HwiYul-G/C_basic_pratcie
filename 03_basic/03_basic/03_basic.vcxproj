@@ -153,6 +153,8 @@
     <ClCompile Include="2_variable.c" />
     <ClCompile Include="30_2d_array.c" />
     <ClCompile Include="31_pointer1.c" />
+    <ClCompile Include="32_pointer2.c" />
+    <ClCompile Include="33_pointer_add.c" />
     <ClCompile Include="3_printf.c" />
     <ClCompile Include="4_naming.c" />
     <ClCompile Include="5_operator.c" />
