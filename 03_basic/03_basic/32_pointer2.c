@@ -72,5 +72,35 @@ int main() {
 	const int* const pa3 = &a;
 	*pa3 = 3; // 올바르지 않은 문장
 	pa3 = &b3; // 올바르지 않은 문장
+
+	/*
+		f(const int a);
+		main{
+			int a =3;
+			f(a);
+		}
+
+		위와 같은 방식으로 const int에 int형 데이터를 대입해줄 수 있다.
+
+		const int *p;에서 포인터를 빼고보면 const int 타입이다.
+		const int는 변경불가능하다. const int*는 const int를 참조하는 포인터이고 const int에 int를 넣을 숭 ㅣㅆ다.
+		const int 타입은 const int a = 3;이라고 했으면 이후에 변경이 불가능하다.
+
+		const int* p = &a;라고 하면 a는 int형이나 const int형이 될 수 있다.
+		그걸(a를) p라는 const int에 대한 포인터로 참조한 거고 
+		const int 포인터니 그걸 역참조하면 const int 타입이므로 *p =5; 이렇게 변경할 수 없다.
+
+		역참조하지 않는 '값' 자체는 const int* p = &a;에서 p = &b;로 참조하는 변수를 바꿀 수는 있다.
+		*p = 5;는 역참조를 했으니 const int 타입의 연산인거고
+		*p = &b;는 포인터 자체에 대한 연산이다.
+		
+		const int*p // const int에 대한 포인터 (const int를 참조함)
+		int* const p // int*에 대한 const 포인터 (그 주소가 바뀌면 안됨)
+						-> const로 한정받고 있는 int*
+		const int* const p // const int에 대한 const 포인터
+						-
+		
+		
+	*/
 	return 0;
 }

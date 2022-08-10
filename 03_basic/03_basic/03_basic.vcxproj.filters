@@ -120,5 +120,17 @@
     <ClCompile Include="33_pointer_add.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="34_array_and_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="35_1dArray_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="36_pointerOfPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="37_arrayName_address_value.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
