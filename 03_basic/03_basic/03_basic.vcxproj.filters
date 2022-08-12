@@ -162,5 +162,35 @@
     <ClCompile Include="47_doublePointer_argument.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="48_2dArray_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="50_constArgument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="51_functionPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="52_fuction_ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="53_fuction_ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="54_function_ex3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55_function_ex4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="56_function_ex5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="59_function_ex6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="60_function_ex7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
