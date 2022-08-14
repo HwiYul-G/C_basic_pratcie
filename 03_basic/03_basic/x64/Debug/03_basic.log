@@ -1,3 +1,3 @@
-﻿  61_debugging.c
-C:\Users\Y\Desktop\my_worksapce\C_basic_pratcie\03_basic\03_basic\61_debugging.c(19,6): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+﻿  78_bigNum.c
+C:\Users\Y\Desktop\my_worksapce\C_basic_pratcie\03_basic\03_basic\78_bigNum.c(49,23): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   03_basic.vcxproj -> C:\Users\Y\Desktop\my_worksapce\C_basic_pratcie\03_basic\x64\Debug\03_basic.exe
