@@ -261,5 +261,14 @@
     <ClCompile Include="83_enum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="84_local_variable_life.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="85_global_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="86_variable_lifeCycle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
