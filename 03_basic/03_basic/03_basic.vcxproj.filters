@@ -267,8 +267,28 @@
     <ClCompile Include="85_global_variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="86_variable_lifeCycle.c">
+    <ClCompile Include="86_local_var2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="87_static_var.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="88_data_segment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="89_before_module.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="90_module_str.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="90_module_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="str.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
