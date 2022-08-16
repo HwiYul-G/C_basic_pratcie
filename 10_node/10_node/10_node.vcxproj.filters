@@ -15,28 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dynamic_alloc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dynamic_alloc2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_arr_dynamic_alloc1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_arr_dynamic_alloc2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_arr_dynamic_alloc3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_arr_dynamic_alloc4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_arr_dynamic_alloc5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_dynamic_allc.c">
+    <ClCompile Include="node.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
