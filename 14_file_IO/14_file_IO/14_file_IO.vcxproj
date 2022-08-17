@@ -127,8 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10_file_readWrite.c" />
+    <ClCompile Include="11_file_io.c" />
+    <ClCompile Include="12_file_io.c" />
+    <ClCompile Include="13_fopen.c" />
+    <ClCompile Include="14_fscanf.c" />
+    <ClCompile Include="15_fscnaf2.c" />
     <ClCompile Include="1_file_out.c" />
     <ClCompile Include="2_file_in.c" />
+    <ClCompile Include="3_file_in2.c" />
+    <ClCompile Include="4_get_filesize.c" />
+    <ClCompile Include="5_file_position_indicator.c" />
+    <ClCompile Include="6_file_position_indicator2.c" />
+    <ClCompile Include="7_file_position_indicator3.c" />
+    <ClCompile Include="8_file_position_indicator4.c" />
+    <ClCompile Include="9_file_position_indicator5.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
